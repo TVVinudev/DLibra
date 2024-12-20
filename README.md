@@ -19,13 +19,13 @@ DLibra is a library management system built using React and Node.js. It provides
 Clone the project
 
 ```bash
-  git clone https://github.com/TVVinudev/Rider-Hailing.git
+  git clone https://github.com/TVVinudev/DLibra.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Ride-Hailing
+  cd DLibra
 ```
 
 Install dependencies for each files using
