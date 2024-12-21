@@ -34,7 +34,7 @@ Install dependencies for each files using
   npm install
 ```
 
-Start the server
+Start the Frond-end & Back-end
 
 ```bash
  npm run dev
